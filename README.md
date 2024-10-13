@@ -24,6 +24,9 @@ The Insurance entity tracks the insurance policies associated with patients. Sin
 While this model covers essential data related to patient care, provider assignments, treatments, billing, and insurance, it does not handle hospital inventory management or real-time provider scheduling. These aspects of hospital management are outside of our data model scope. 
 In summary, our hospital management data model effectively organizes and tracks the relationships between departments, healthcare providers, patients, treatments, billing, and insurance. Most importantly, it supports the necessary data used in hospital operations and helps with efficient management of patient care and financial records.
 
+<img width="946" alt="Screenshot 2024-10-13 at 5 08 59 PM" src="https://github.com/user-attachments/assets/4074e95a-ce33-4482-b3ff-e77e52306013">
+
+
 # Data Dictionary 
 <img width="724" alt="Screenshot 2024-10-13 at 4 21 14 PM" src="https://github.com/user-attachments/assets/64ad7f76-0ce5-451a-a2c9-c02f03ba16c8">
 <img width="720" alt="Screenshot 2024-10-13 at 4 21 35 PM" src="https://github.com/user-attachments/assets/213bb0a5-6997-4e45-8967-02a4aec3db9c">
