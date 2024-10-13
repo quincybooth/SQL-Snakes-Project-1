@@ -1,6 +1,6 @@
 # MIST 4610 Team SQL Snakes Group Project 1
 # Team Members
-1. Quincy Booth qb22563@uga.edu
+1. Quincy Booth
 2. Lauren Johnston lej26429@uga.edu
 3. Jordan Haynes jrh70778@uga.edu
 4. Ella Tedesco ewt31526@uga.edu
