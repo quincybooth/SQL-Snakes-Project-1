@@ -73,6 +73,8 @@ A manager may find this useful for assessing workflow distribution. By analyzing
 SIMPLE QUERIES
 
 7.Query to retrieve all patient details, along with their associated insurance information:
+
+
 8. Query to get all billing information for a specific patient
 <img width="493" alt="Screenshot 2024-10-13 at 5 26 41 PM" src="https://github.com/user-attachments/assets/2bd48fc2-cc18-4446-9fa3-b39870697e83">
 
@@ -86,3 +88,6 @@ Relevance: This query provides accurate tracking about separate treatments, maki
 
 10. Query to count the number of unpaid bills
     <img width="237" alt="Screenshot 2024-10-13 at 5 29 24 PM" src="https://github.com/user-attachments/assets/c23fa738-52bb-4221-bb4b-fffc48b35584">
+
+This query is a huge time-saver for hospital employees since it delivers results instantly, and one does not have to manually count each unpaid bill. The billing department can prioritize different tasks, and keep track of what periods retain the most unpaid bills.
+
