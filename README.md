@@ -44,10 +44,12 @@ In summary, our hospital management data model effectively organizes and tracks 
 
 # Queries
 
-Query 1 counts the number of new patients a healthcare provider sees on a given day. It is ordered by the number of new patients seen
-   <img width="527" alt="Screenshot 2024-10-13 at 5 01 38 PM" src="https://github.com/user-attachments/assets/31ceedf9-68f6-4137-8392-af9fea3929ab">
+1. Query 1 counts the number of new patients a healthcare provider sees on a given day. It is ordered by the number of new patients seen
 
+   <img width="527" alt="Screenshot 2024-10-13 at 5 01 38 PM" src="https://github.com/user-attachments/assets/31ceedf9-68f6-4137-8392-af9fea3929ab">
+   
 A manager may want to know how many patients each healthcare provider treats daily to balance workloads. Having a reasonable work life balance is important for healthcare providers as they have crucial roles in society. In addition, knowing this information is beneficial for optimizing scheduling and assessing the performance of the healthcare providers. It allows them to see how many new patients each provider can have on a given day without being too overworked. 
+
 2. Show the name of each department head, how many employees they have, and how long they’ve been working, only for department heads who have been employed for more than 10 years
   <img width="366" alt="Screenshot 2024-10-13 at 5 02 12 PM" src="https://github.com/user-attachments/assets/7d022d81-6c6a-47c9-b5c3-b055ee4bd6e5">
   
