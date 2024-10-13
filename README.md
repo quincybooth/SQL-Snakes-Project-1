@@ -73,10 +73,16 @@ A manager may find this useful for assessing workflow distribution. By analyzing
 SIMPLE QUERIES
 
 7.Query to retrieve all patient details, along with their associated insurance information:
-
 8. Query to get all billing information for a specific patient
 <img width="493" alt="Screenshot 2024-10-13 at 5 26 41 PM" src="https://github.com/user-attachments/assets/2bd48fc2-cc18-4446-9fa3-b39870697e83">
+
 Relevance: Allows office employees to find different billing information for a patient easily without searching through multiple tables. This query also minimizes any errors and ensures that billing details are for the correct individual.
 
-10.  jajajaja
-11. jajajjaa
+9. Query to get treatments provided by a healthcare provider
+  <img width="473" alt="Screenshot 2024-10-13 at 5 28 14 PM" src="https://github.com/user-attachments/assets/956fba1b-25a6-44d9-a2ce-49642777ee6d">
+
+Relevance: This query provides accurate tracking about separate treatments, making it easy for the healthcare center to keep track of their workload and contributions to patient care. Also, having these accurate records increases accountability and supports performance evaluations based on treatments administered.
+
+
+10. Query to count the number of unpaid bills
+    <img width="237" alt="Screenshot 2024-10-13 at 5 29 24 PM" src="https://github.com/user-attachments/assets/c23fa738-52bb-4221-bb4b-fffc48b35584">
