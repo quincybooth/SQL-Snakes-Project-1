@@ -24,3 +24,10 @@ jjkk
 <img width="722" alt="Screenshot 2024-10-13 at 4 26 22 PM" src="https://github.com/user-attachments/assets/95e98e7c-3bc2-43d0-987c-2aa2f38674ae">
 
 # Queries
+
+1. Count the number of new patients a healthcare provider sees on a given day- order by the number of new patients in descending order
+   <img width="527" alt="Screenshot 2024-10-13 at 5 01 38 PM" src="https://github.com/user-attachments/assets/31ceedf9-68f6-4137-8392-af9fea3929ab">
+2. Show the name of each department head, how many employees they have, and how long they’ve been working, only for department heads who have been employed for more than 10 years
+  <img width="366" alt="Screenshot 2024-10-13 at 5 02 12 PM" src="https://github.com/user-attachments/assets/7d022d81-6c6a-47c9-b5c3-b055ee4bd6e5">
+3. Calculate the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
+   <img width="312" alt="Screenshot 2024-10-13 at 5 02 54 PM" src="https://github.com/user-attachments/assets/58567636-dd3f-4296-bd6a-a4f05c85e291">
