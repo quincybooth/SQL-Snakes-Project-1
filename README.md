@@ -31,3 +31,21 @@ jjkk
   <img width="366" alt="Screenshot 2024-10-13 at 5 02 12 PM" src="https://github.com/user-attachments/assets/7d022d81-6c6a-47c9-b5c3-b055ee4bd6e5">
 3. Calculate the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
    <img width="312" alt="Screenshot 2024-10-13 at 5 02 54 PM" src="https://github.com/user-attachments/assets/58567636-dd3f-4296-bd6a-a4f05c85e291">
+4.Find all Patients who have not been assigned a healthcare provider, display their ID and full name.
+
+
+5.Write an SQL query that retrieves the names of treatments, their costs, and the first and last names of patients who received treatments that are more expensive than the average treatment cost. The results should be ordered by treatment cost in descending order
+
+
+
+6. blah blah blah
+
+
+SIMPLE QUERIES
+
+7.Query to retrieve all patient details, along with their associated insurance information:
+
+
+8. jajaja
+9. jajajaja
+10. jajajjaa
