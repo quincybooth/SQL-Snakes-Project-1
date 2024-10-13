@@ -50,10 +50,13 @@ In summary, our hospital management data model effectively organizes and tracks 
    
 A manager may want to know how many patients each healthcare provider treats daily to balance workloads. Having a reasonable work life balance is important for healthcare providers as they have crucial roles in society. In addition, knowing this information is beneficial for optimizing scheduling and assessing the performance of the healthcare providers. It allows them to see how many new patients each provider can have on a given day without being too overworked. 
 
-2. Show the name of each department head, how many employees they have, and how long they’ve been working, only for department heads who have been employed for more than 10 years
+2. Query 2 shows the names of each department heads, the number of employees that they have, and how long they have been working. In this particular query, only the department heads who have been working at the hospital for more than 10 years are displayed.
+
   <img width="366" alt="Screenshot 2024-10-13 at 5 02 12 PM" src="https://github.com/user-attachments/assets/7d022d81-6c6a-47c9-b5c3-b055ee4bd6e5">
+
+A manager may find this useful for assessing workflow distribution. By analyzing the number of employees that each department head is overseeing, it allows managers to visualize the weight of each department, and the number of employees they are overseeing. In addition, by filtering the number of years worked by a decade it allows managers to see which of their employees show company loyalty, which could be useful for pay raises or celebrations for their dedicated department heads.
   
-3. Calculate the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
+4. Calculate the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
    
    <img width="312" alt="Screenshot 2024-10-13 at 5 02 54 PM" src="https://github.com/user-attachments/assets/58567636-dd3f-4296-bd6a-a4f05c85e291">
    
