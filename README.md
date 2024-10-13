@@ -59,7 +59,9 @@ A manager may find this useful for assessing workflow distribution. By analyzing
 3. Calculate the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
    
    <img width="312" alt="Screenshot 2024-10-13 at 5 02 54 PM" src="https://github.com/user-attachments/assets/58567636-dd3f-4296-bd6a-a4f05c85e291">
-   
+
+This query allows hospital management to gain insights into the effectiveness and coverage of different insurance providers in terms of both the number of patients covered and the total amount billed. By identifying which insurance providers cover the most patients and generate the highest billing amounts, the hospital can prioritize partnerships and negotiations with these insurance companies. This information helps management optimize revenue streams by focusing on the most impactful insurer. By targeting high-billing insurers, the hospital can streamline billing processes and improve relationships with providers that are driving the most revenue.
+
 4.Find all Patients who have not been assigned a healthcare provider, display their ID and full name.
 
 
