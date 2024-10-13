@@ -3,7 +3,7 @@
 1. Quincy Booth
 2. Lauren Johnston lej26429@uga.edu
 3. Jordan Haynes
-4. Ella Tedesco
+4. Ella Tedesco ewt31526@uga.edu
 5. Devin Dickey
 # Problem Description
 # Data Model 
