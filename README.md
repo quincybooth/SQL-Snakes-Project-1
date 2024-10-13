@@ -71,7 +71,9 @@ SIMPLE QUERIES
 
 7.Query to retrieve all patient details, along with their associated insurance information:
 
+8. Query to get all billing information for a specific patient
+<img width="493" alt="Screenshot 2024-10-13 at 5 26 41 PM" src="https://github.com/user-attachments/assets/2bd48fc2-cc18-4446-9fa3-b39870697e83">
+Relevance: Allows office employees to find different billing information for a patient easily without searching through multiple tables. This query also minimizes any errors and ensures that billing details are for the correct individual.
 
-8. jajaja
-9. jajajaja
-10. jajajjaa
+10.  jajajaja
+11. jajajjaa
