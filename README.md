@@ -2,7 +2,7 @@
 # Team Members
 1. Quincy Booth qb22563@uga.edu
 2. Lauren Johnston lej26429@uga.edu
-3. Jordan Haynes
+3. Jordan Haynes jrh70778@uga.edu
 4. Ella Tedesco ewt31526@uga.edu
 5. Devin Dickey
 # Problem Description
