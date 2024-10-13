@@ -56,7 +56,7 @@ A manager may want to know how many patients each healthcare provider treats dai
 
 A manager may find this useful for assessing workflow distribution. By analyzing the number of employees that each department head is overseeing, it allows managers to visualize the weight of each department, and the number of employees they are overseeing. In addition, by filtering the number of years worked by a decade it allows managers to see which of their employees show company loyalty, which could be useful for pay raises or celebrations for their dedicated department heads.
   
-4. Calculate the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
+3. Calculate the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
    
    <img width="312" alt="Screenshot 2024-10-13 at 5 02 54 PM" src="https://github.com/user-attachments/assets/58567636-dd3f-4296-bd6a-a4f05c85e291">
    
