@@ -23,4 +23,4 @@ jjkk
 <img width="721" alt="Screenshot 2024-10-13 at 4 25 20 PM" src="https://github.com/user-attachments/assets/9164e659-8c5b-4e3e-a735-bd92fbadf49f">
 <img width="722" alt="Screenshot 2024-10-13 at 4 26 22 PM" src="https://github.com/user-attachments/assets/95e98e7c-3bc2-43d0-987c-2aa2f38674ae">
 
-
+# Queries
