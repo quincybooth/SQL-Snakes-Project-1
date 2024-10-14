@@ -1,6 +1,6 @@
 # MIST 4610 Team SQL Snakes Group Project 1
 # Team Members
-1. Quincy Booth
+1. Quincy Booth @[quincybooth](https://github.com/quincybooth) 
 2. Lauren Johnston lej26429@uga.edu
 3. Jordan Haynes @jrosehaynes/SQL-Snakes-Project-1
 4. Ella Tedesco @[ellatedesco](https://github.com/ellatedesco)
