@@ -62,26 +62,36 @@ A manager may find this useful for assessing workflow distribution. By analyzing
 
 This query allows hospital management to gain insights into the effectiveness and coverage of different insurance providers in terms of both the number of patients covered and the total amount billed. By identifying which insurance providers cover the most patients and generate the highest billing amounts, the hospital can prioritize partnerships and negotiations with these insurance companies. This information helps management optimize revenue streams by focusing on the most impactful insurer. By targeting high-billing insurers, the hospital can streamline billing processes and improve relationships with providers that are driving the most revenue.
 
+
 4.Query 4 finds all patients who have not been assigned a healthcare provider and then displays their ID and full name. 
 
 <img width="647" alt="Screenshot 2024-10-13 at 5 35 59 PM" src="https://github.com/user-attachments/assets/0b43b4fe-0264-4c1b-93db-231f5cef43f5">
 
-This query identifies patients who have not yet been assigned a healthcare provider, ensuring that no one is left without necessary medical attention. This query helps managers address gaps in patient care assignments quickly, improving patient satisfaction. It also ensures that the hospital operates efficiently, with all patients properly attended to. 
+Relevance: This query identifies patients who have not yet been assigned a healthcare provider, ensuring that no one is left without necessary medical attention. This query helps managers address gaps in patient care assignments quickly, improving patient satisfaction. It also ensures that the hospital operates efficiently, with all patients properly attended to. 
 
 
 
 5.Write an SQL query that retrieves the names of treatments, their costs, and the first and last names of patients who received treatments that are more expensive than the average treatment cost. The results should be ordered by treatment cost in descending order
 
+<img width="502" alt="Screenshot 2024-10-13 at 8 27 08 PM" src="https://github.com/user-attachments/assets/71134055-cbe3-47bb-86f4-0c96318b3b53">
+
+Relevance: Retrieves information on treatments that are more expensive than the average cost, along with the patients receiving them. This is useful for managing treatment costs and ensuring pricing strategies align with the hospital’s financial goals. It also allows managers to assess whether certain treatments are priced appropriately based on their complexity and necessity
 
 
-6. blah blah blah
+6. Write an SQL query that displays health care providers first name, last name, their total patients, their total treatment costs, and total billing amount garnered. Order in descending order of total treatment cost.
+
+<img width="455" alt="Screenshot 2024-10-13 at 8 28 49 PM" src="https://github.com/user-attachments/assets/60983530-8bee-41b1-ab99-9eb2a358a926">
+
+Relevance: Identifies the top performing health care providers by providing information regarding how many patients they have worked on and the treatment costs that were administered. This can be useful if managers are looking to give incentives to top performing doctors or identify underperformance. 
 
 
 SIMPLE QUERIES
 
 7.Query to retrieve all patient details, along with their associated insurance information:
 
+<img width="502" alt="Screenshot 2024-10-13 at 8 29 54 PM" src="https://github.com/user-attachments/assets/3ac5a4c3-5546-4b2f-84b2-5a2201a21e5b">
 
+Relevance: Provides a comprehensive overview of patient details along with their insurance information. This query helps managers streamline administrative processes by making it easier to access key patient data. It also improves customer service by ensuring that staff can quickly retrieve information when handling patient inquiries or insurance issues.
 
 8. Query to get all billing information for a specific patient
 <img width="493" alt="Screenshot 2024-10-13 at 5 26 41 PM" src="https://github.com/user-attachments/assets/2bd48fc2-cc18-4446-9fa3-b39870697e83">
