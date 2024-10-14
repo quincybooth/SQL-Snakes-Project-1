@@ -48,65 +48,64 @@ In summary, our hospital management data model effectively organizes and tracks 
 
    <img width="527" alt="Screenshot 2024-10-13 at 5 01 38 PM" src="https://github.com/user-attachments/assets/31ceedf9-68f6-4137-8392-af9fea3929ab">
    
-A manager may want to know how many patients each healthcare provider treats daily to balance workloads. Having a reasonable work life balance is important for healthcare providers as they have crucial roles in society. In addition, knowing this information is beneficial for optimizing scheduling and assessing the performance of the healthcare providers. It allows them to see how many new patients each provider can have on a given day without being too overworked. 
+Relevance: A manager may want to know how many patients each healthcare provider treats daily to balance workloads. Having a reasonable work life balance is important for healthcare providers as they have crucial roles in society. In addition, knowing this information is beneficial for optimizing scheduling and assessing the performance of the healthcare providers. It allows them to see how many new patients each provider can have on a given day without being too overworked. 
 
 2. Query 2 shows the names of each department heads, the number of employees that they have, and how long they have been working. In this particular query, only the department heads who have been working at the hospital for more than 10 years are displayed.
 
   <img width="366" alt="Screenshot 2024-10-13 at 5 02 12 PM" src="https://github.com/user-attachments/assets/7d022d81-6c6a-47c9-b5c3-b055ee4bd6e5">
 
-A manager may find this useful for assessing workflow distribution. By analyzing the number of employees that each department head is overseeing, it allows managers to visualize the weight of each department, and the number of employees they are overseeing. In addition, by filtering the number of years worked by a decade it allows managers to see which of their employees show company loyalty, which could be useful for pay raises or celebrations for their dedicated department heads.
+Relevance: A manager may find this useful for assessing workflow distribution. By analyzing the number of employees that each department head is overseeing, it allows managers to visualize the weight of each department, and the number of employees they are overseeing. In addition, by filtering the number of years worked by a decade it allows managers to see which of their employees show company loyalty, which could be useful for pay raises or celebrations for their dedicated department heads.
   
-3. Calculate the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
+3. Query 3 calculates the number of unique patients covered by each insurance provider and the total amount billed. Results are grouped by the insurance provider and ordered by the total amount     billed in descending order.
    
    <img width="312" alt="Screenshot 2024-10-13 at 5 02 54 PM" src="https://github.com/user-attachments/assets/58567636-dd3f-4296-bd6a-a4f05c85e291">
 
-This query allows hospital management to gain insights into the effectiveness and coverage of different insurance providers in terms of both the number of patients covered and the total amount billed. By identifying which insurance providers cover the most patients and generate the highest billing amounts, the hospital can prioritize partnerships and negotiations with these insurance companies. This information helps management optimize revenue streams by focusing on the most impactful insurer. By targeting high-billing insurers, the hospital can streamline billing processes and improve relationships with providers that are driving the most revenue.
+Relevance: This query allows hospital management to gain insights into the effectiveness and coverage of different insurance providers in terms of both the number of patients covered and the total amount billed. By identifying which insurance providers cover the most patients and generate the highest billing amounts, the hospital can prioritize partnerships and negotiations with these insurance companies. This information helps management optimize revenue streams by focusing on the most impactful insurer. By targeting high-billing insurers, the hospital can streamline billing processes and improve relationships with providers that are driving the most revenue.
 
 
-4.Query 4 finds all patients who have not been assigned a healthcare provider and then displays their ID and full name. 
+4. Query 4 identifies all patients who have not been assigned a healthcare provider and then displays their ID and full name. 
 
 <img width="647" alt="Screenshot 2024-10-13 at 5 35 59 PM" src="https://github.com/user-attachments/assets/0b43b4fe-0264-4c1b-93db-231f5cef43f5">
 
 Relevance: This query identifies patients who have not yet been assigned a healthcare provider, ensuring that no one is left without necessary medical attention. This query helps managers address gaps in patient care assignments quickly, improving patient satisfaction. It also ensures that the hospital operates efficiently, with all patients properly attended to. 
 
 
-
-5.Write an SQL query that retrieves the names of treatments, their costs, and the first and last names of patients who received treatments that are more expensive than the average treatment cost. The results should be ordered by treatment cost in descending order
+5. Query 5 retrieves the names of treatments, their costs, and the first and last names of patients who received treatments that are more expensive than the average treatment cost. The results are ordered by treatment cost in descending order.
 
 <img width="502" alt="Screenshot 2024-10-13 at 8 27 08 PM" src="https://github.com/user-attachments/assets/71134055-cbe3-47bb-86f4-0c96318b3b53">
 
-Relevance: Retrieves information on treatments that are more expensive than the average cost, along with the patients receiving them. This is useful for managing treatment costs and ensuring pricing strategies align with the hospital’s financial goals. It also allows managers to assess whether certain treatments are priced appropriately based on their complexity and necessity
+Relevance: This query retrieves information on treatments that are more expensive than the average cost, along with the patients receiving them. This is useful for managing treatment costs and ensuring pricing strategies align with the hospital’s financial goals. It also allows managers to assess whether certain treatments are priced appropriately based on their complexity and necessity
 
 
-6. Write an SQL query that displays health care providers first name, last name, their total patients, their total treatment costs, and total billing amount garnered. Order in descending order of total treatment cost.
+6. Query 6 displays health care providers first name, last name, their total patients, their total treatment costs, and total billing amount garnered. The results are ordered in descending order of total treatment cost.
 
 <img width="455" alt="Screenshot 2024-10-13 at 8 28 49 PM" src="https://github.com/user-attachments/assets/60983530-8bee-41b1-ab99-9eb2a358a926">
 
-Relevance: Identifies the top performing health care providers by providing information regarding how many patients they have worked on and the treatment costs that were administered. This can be useful if managers are looking to give incentives to top performing doctors or identify underperformance. 
+Relevance: This query identifies the top performing health care providers by providing information regarding how many patients they have worked on and the treatment costs that were administered. This can be useful if managers are looking to give incentives to top performing doctors or identify underperformance. 
 
 
 SIMPLE QUERIES
 
-7.Query to retrieve all patient details, along with their associated insurance information:
+7. Query 7 retrieves all patient details, along with their associated insurance information.
 
 <img width="502" alt="Screenshot 2024-10-13 at 8 29 54 PM" src="https://github.com/user-attachments/assets/3ac5a4c3-5546-4b2f-84b2-5a2201a21e5b">
 
-Relevance: Provides a comprehensive overview of patient details along with their insurance information. This query helps managers streamline administrative processes by making it easier to access key patient data. It also improves customer service by ensuring that staff can quickly retrieve information when handling patient inquiries or insurance issues.
+Relevance: This query provides a comprehensive overview of patient details along with their insurance information. This query helps managers streamline administrative processes by making it easier to access key patient data. It also improves customer service by ensuring that staff can quickly retrieve information when handling patient inquiries or insurance issues.
 
-8. Query to get all billing information for a specific patient
+8. Query 8 is used to get all billing information for a specific patient.
 <img width="493" alt="Screenshot 2024-10-13 at 5 26 41 PM" src="https://github.com/user-attachments/assets/2bd48fc2-cc18-4446-9fa3-b39870697e83">
 
-Relevance: Allows office employees to find different billing information for a patient easily without searching through multiple tables. This query also minimizes any errors and ensures that billing details are for the correct individual.
+Relevance: This query allows office employees to find different billing information for a patient easily without searching through multiple tables. This query also minimizes any errors and ensures that billing details are for the correct individual.
 
-9. Query to get treatments provided by a healthcare provider
+9. Query 9 is used to retrieve all treatments provided by a healthcare provider.
   <img width="473" alt="Screenshot 2024-10-13 at 5 28 14 PM" src="https://github.com/user-attachments/assets/956fba1b-25a6-44d9-a2ce-49642777ee6d">
 
 Relevance: This query provides accurate tracking about separate treatments, making it easy for the healthcare center to keep track of their workload and contributions to patient care. Also, having these accurate records increases accountability and supports performance evaluations based on treatments administered.
 
 
-10. Query to count the number of unpaid bills
+10. Query 10 can be applied to count the number of unpaid bills in their financial system.
 
     <img width="237" alt="Screenshot 2024-10-13 at 5 29 24 PM" src="https://github.com/user-attachments/assets/c23fa738-52bb-4221-bb4b-fffc48b35584">
 
-This query is a huge time-saver for hospital employees since it delivers results instantly, and one does not have to manually count each unpaid bill. The billing department can prioritize different tasks, and keep track of what periods retain the most unpaid bills.
+Relevance: This query is a huge time-saver for hospital employees since it delivers results instantly, and one does not have to manually count each unpaid bill. The billing department can prioritize different tasks, and keep track of what periods retain the most unpaid bills.
 
