@@ -44,7 +44,7 @@ In summary, our hospital management data model effectively organizes and tracks 
 
 # Queries
 
-1. Query 1 counts the number of new patients a healthcare provider sees on a given day. It is ordered by the number of new patients seen
+1. Query 1 counts the number of new patients a healthcare provider sees on a given day. It is ordered by the number of new patients seen.
 
    <img width="527" alt="Screenshot 2024-10-13 at 5 01 38 PM" src="https://github.com/user-attachments/assets/31ceedf9-68f6-4137-8392-af9fea3929ab">
    
