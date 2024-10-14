@@ -2,7 +2,7 @@
 # Team Members
 1. Quincy Booth @[quincybooth](https://github.com/quincybooth) 
 2. Lauren Johnston lej26429@uga.edu
-3. Jordan Haynes @jrosehaynes/SQL-Snakes-Project-1
+3. Jordan Haynes @[jrosehaynes](https://github.com/jrosehaynes)
 4. Ella Tedesco @[ellatedesco](https://github.com/ellatedesco)
 5. Devin Dickey
 # Problem Description
